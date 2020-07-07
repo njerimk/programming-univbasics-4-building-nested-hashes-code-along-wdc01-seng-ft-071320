@@ -11,7 +11,7 @@ def third_challenge
         age: "54"
         #your key/value pairs here
         },
-      :heroine => {
+      :hero => {
         name: "Romeo",
         age:"15",
         status:"alive"
