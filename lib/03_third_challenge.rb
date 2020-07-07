@@ -47,7 +47,7 @@ def third_challenge
          age: "44",
          attitude: "worried"}
         ]
-      }
+    }
   }
 
   
